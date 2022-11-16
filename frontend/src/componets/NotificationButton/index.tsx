@@ -1,5 +1,5 @@
-import icon from '../../assets/img/icon-notification.svg'
-import './style.css'
+import icon from '../../assets/img/icon-notification.svg';
+import './style.css';
 
 function NotificationButton() {
     return (
@@ -9,4 +9,4 @@ function NotificationButton() {
     )
 }
 
-export default NotificationButton
+export default NotificationButton;
