@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DsmetaApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="TWILIO_KEY" value="8c91424aee5ddf737fa1785c6c67489d" />
+      <env name="TWILIO_PHONE_FROM" value="+13465344715" />
+      <env name="TWILIO_PHONE_TO" value="+5519994894675" />
+      <env name="TWILIO_SID" value="AC92d0cc3d5500c7bd8ff83d332764a006" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.devsuperior.dsmeta.DsmetaApplication" />
+    <module name="dsmeta" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.devsuperior.dsmeta.entities.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
