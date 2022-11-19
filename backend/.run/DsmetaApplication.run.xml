@@ -3,7 +3,7 @@
     <envs>
       <env name="TWILIO_KEY" value="f6b6199308ee1dece49bb15662739129" />
       <env name="TWILIO_PHONE_FROM" value="+13465344715" />
-      <env name="TWILIO_PHONE_TO" value="+5519994894675" />
+      <env name="TWILIO_PHONE_TO" value="+5519920037905" />
       <env name="TWILIO_SID" value="AC92d0cc3d5500c7bd8ff83d332764a006" />
     </envs>
     <option name="MAIN_CLASS_NAME" value="com.devsuperior.dsmeta.DsmetaApplication" />
