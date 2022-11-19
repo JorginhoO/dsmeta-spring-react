@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="DsmetaApplication" type="Application" factoryName="Application" nameIsGenerated="true">
     <envs>
-      <env name="TWILIO_KEY" value="f6b6199308ee1dece49bb15662739129" />
+      <env name="TWILIO_KEY" value="80aa89469c5ef5fc505e4ca35a28e188" />
       <env name="TWILIO_PHONE_FROM" value="+13465344715" />
       <env name="TWILIO_PHONE_TO" value="+5519920037905" />
       <env name="TWILIO_SID" value="AC92d0cc3d5500c7bd8ff83d332764a006" />
